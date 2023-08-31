@@ -1,0 +1,12 @@
+/*kommentoor*/
+header{
+    color: maroon;
+    background-color: moccasin;
+    width: 60%;
+}
+head h1{
+    font-family: "Algerian";
+    font-size: larger;
+    letter-spacing: 0.3cm;
+    border-bottom: solid 1pt red; /*dotted dosher double*/
+}
