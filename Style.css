@@ -53,3 +53,34 @@ img#pilt3{
     border: solid 1pt darkblue;
     border-radius: 200px;
 }
+.nmk{
+    margin:0; /*väline vahe elementist*/
+    padding: 20px; /*elemendi sisu ümber ruum*/
+    background-color: burlywood;
+    border: solid 1pt black;
+    font-size: 18px;
+    border-radius: 200px;
+}
+.fff{
+    margin:0; /*väline vahe elementist*/
+    padding: 10px 20px;
+    background-color: darkviolet;
+    color: black;
+    text-decoration:underline;
+    border: solid 5pt Green;
+    font-size: 34px;
+    text-align: center;
+    border-radius: 10px;
+}
+.rrr{
+    font-size: 13px;
+    background-color: cadetblue;
+    border: solid 15pt black;
+    text-align: center;
+    padding:20px;
+}
+img#pilt4 {
+    width: 25%;
+    border: solid 10pt Yellow;
+    border-radius: 200px;
+}
