@@ -1,0 +1,30 @@
+/*Eesti lipp*/
+td{
+    border: solid 1pt;
+}
+table#eesti{
+    width: 330px;
+    height: 210px;
+    border: 1pt solid grey;
+    border-spacing: 0;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+
+/*esimene rida*/
+#eesti tr:nth-child(1){
+    background-color: navy;
+    border: 0px;
+}
+/*teine rida*/
+#eesti tr:nth-child(2){
+    background-color: black;
+    border: 0px;
+}
+/*kolmas rida*/
+#eesti tr:nth-child(3){
+    background-color: whitesmoke;
+    border: 0px;
+}
+

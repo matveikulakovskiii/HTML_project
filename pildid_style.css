@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+html, body{
+    width: 100%;
+    background-color: plum;
+    font-family: Georgia, sans-serif;
+    font-size: 16px;
+}
+h2{
+    text-align: center;
+}
+header{
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: cadetblue;
+    padding: 2%;
+}
+main{
+    background-color: darkviolet;
+    height: 600px;
+}
+.esimene, .teine, .kolmas{
+    position: absolute;
+}
+.esimene{
+    top: 30%;
+    left: 350px;
+    z-index: 1;
+}
+.teine{
+    top: 25%;
+    left: 500px;
+    z-index: 2;
+}
+.kolmas{
+    top: 30%;
+    left: 600px;
+    z-index: 3;
+}
+img{
+    border: 1px solid red;
+}

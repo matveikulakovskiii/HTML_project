@@ -1,0 +1,50 @@
+table#tabel1{
+    border: solid 1pt;
+    width: 60%;
+    text-align: center;
+}
+td{
+    border: solid 1pt;
+}
+table#tabel2{
+    border: solid 1pt red;
+    width: 40%;
+    text-align: center;
+}
+table#tabel3{
+    border: solid 1pt green;
+    width: 40%;
+    text-align: center;
+    height: 200px;
+}
+table#tabel4{
+    border: solid 1pt green;
+    width: 30%;
+    text-align: center;
+    height: 200px;
+    background: black;
+}
+td#td1{
+    background: blue;
+}
+td#td2{
+    background: red;
+}
+td#td3{
+    background: lightblue;
+}
+td#td4{
+    background: brown;
+}
+td#td5{
+    background: yellow;
+}
+td#td6{
+    background: green;
+}
+td#td7{
+    background: darkgoldenrod;
+}
+td#td8{
+    background: deeppink;
+}
